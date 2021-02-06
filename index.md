@@ -85,7 +85,7 @@ Thesis presented in "Recent Results on Random Boolean Networks" at
 Programming in several languages, notably C/C++, Python, Scala, Lisp
 and related tools (databases, shells, versioning systems ...)
   
-### Social & Organizational skills
+### Organizational skills
 
 Team work, project and team management, mentoring, agile development
 
