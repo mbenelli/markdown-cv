@@ -8,6 +8,7 @@ Software Developer
 <div id="webaddress">
 <a href="mbenelli@fastmail.com">mbenelli@fastmail.com</a>
 | <a href="http://github.com/mbenelli">Github</a>
+| +49 17675533014
 </div>
 
 
@@ -81,7 +82,7 @@ Thesis presented in "Recent Results on Random Boolean Networks" at
   
 ### Technical skills
 
-Programming in several languages, mostly C/C++, Python, Scala, Lisp
+Programming in several languages, notably C/C++, Python, Scala, Lisp
 and related tools (databases, shells, versioning systems ...)
   
 ### Social & Organizational skills
