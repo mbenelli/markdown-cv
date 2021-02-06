@@ -106,11 +106,12 @@ Simulation and analysis of Random Boolean Networks
 
 ### Plenary speaker
 
-5th European Lisp Symposium (Zadar, April 30th, May 1st 2012)
+`April 30th - May 1st 2012`
+5th European Lisp Symposium, Zadar
 [http://ozk.unizd.hr/els2012](http://ozk.unizd.hr/els2012)
 
-
-Better Embedded 2012 (Florence, September 24th-25th 2012)
+`September 24th-25th 2012`
+Better Embedded 2012, Florence
 [http://www.betterembedded.it/2013/edizione-2012](http://www.betterembedded.it/2013/edizione-2012)
 
 
