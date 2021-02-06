@@ -18,7 +18,7 @@ Software Developer and Data Scientist at Mbition.
 
 ## Interests
 
-Embedded systems, algorithms, cryptography, machine learning.
+Algorithms, embedded systems, cryptography, machine learning.
 
 
 ## Professional Experience
@@ -81,23 +81,16 @@ Thesis presented in "Recent Results on Random Boolean Networks" at
   
 ### Technical skills
 
+  - C/C++, Python, Scala, Lisp
+  - Rust, Go, Julia
+  - Unix, SQL, Git, Spark, Qt
   - Mathematic and Physics
   - Algorithms
   - Basic Electronics
   
-### Computer skills
+### Social & Organizational skills
 
-  - C/C++, Python, Scala, Lisp
-  - Rust, Go, Julia
-  - Unix, SQL, Git, Spark, Qt
-  
-### Social Skill
-
-Team work, project and team management, mentoring
-
-### Organizational skills
-
-Agile development
+Team work, project and team management, mentoring, agile development
 
 ## Additional information
 
