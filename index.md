@@ -81,12 +81,8 @@ Thesis presented in "Recent Results on Random Boolean Networks" at
   
 ### Technical skills
 
-  - C/C++, Python, Scala, Lisp
-  - Rust, Go, Julia
-  - Unix, SQL, Git, Spark, Qt
-  - Mathematic and Physics
-  - Algorithms
-  - Basic Electronics
+Programming in several languages, mostly C/C++, Python, Scala, Lisp
+and related tools (databases, shells, versioning systems ...)
   
 ### Social & Organizational skills
 
