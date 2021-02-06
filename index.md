@@ -22,7 +22,7 @@ Algorithms, embedded systems, cryptography, machine learning.
 `2019-now`
 __Mbition GmbH__, Berlin
 
-Data pipeline for global analytics for Daimler vehicles.
+Data pipeline for global analytics about Daimler vehicles.
 
 Vehicle infotainment components.
 
@@ -51,7 +51,7 @@ Industrial automation and IoT.
 `2004-2013`
 __Software Developer and Consultant__, Florence, Fabriano (AN) and Forli (FC), Italy
 
-Industial automation, artificial vision, telecomunication, firmware.
+Industrial automation, artificial vision, telecommunication, firmware.
 
 `2002-2003`
 __Montecatini Research Center__, Marina di Ravenna (RA, Italy)
@@ -59,13 +59,15 @@ __Montecatini Research Center__, Marina di Ravenna (RA, Italy)
 Study of emergent behavior in complex systems. Implementation of software
 for simulations and data analysis.
 
+
 ## Education
 
 `1996-2003`
 __Master Degree in Physics, University of Bologna.__
 
 Thesis presented in "Recent Results on Random Boolean Networks" at
-"3rd National Conference on System Science" (2004)
+"3rd National Conference on System Science" (2004).
+
 
 ## Personal skill and competences
 
@@ -84,6 +86,7 @@ and related tools (databases, shells, versioning systems ...)
 
 Team work, project and team management, mentoring, agile development
 
+
 ## Additional information
 
 ### Personal projects
@@ -92,15 +95,20 @@ Klio: [https://mbenelli.github.com/klio/](https://mbenelli.github.com/klio/)
 Web server and framework focused on system automation on constrained
 resources
 
+
 Gambit-Cairo: [https://github.com/mbenelli/gambit-cairo](https://github.com/mbenelli/gambit-cairo)
 Cairo bindings ofr Gambit-C scheme system
+
 
 Boolean Networks Simulator: [http:/savannah.nongnu.org/bns](http:/savannah.nongnu.org/bns)
 Simulation and analysis of Random Boolean Networks
 
+
 ### Plenary speaker
+
 5th European Lisp Symposium (Zadar, April 30th, May 1st 2012)
 [http://ozk.unizd.hr/els2012](http://ozk.unizd.hr/els2012)
+
 
 Better Embedded 2012 (Florence, September 24th-25th 2012)
 [http://www.betterembedded.it/2013/edizione-2012](http://www.betterembedded.it/2013/edizione-2012)
