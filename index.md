@@ -91,28 +91,35 @@ Team work, project and team management, mentoring, agile development
 
 ### Personal projects
 
-Klio: [https://mbenelli.github.com/klio/](https://mbenelli.github.com/klio/)
-Web server and framework focused on system automation on constrained
-resources
+Klio: Web server and framework focused on system automation on constrained resources
+<div id="webaddress">
+<a href="https://mbenelli.github.com/klio">https://mbenelli.github.com/klio</a>
+</div>
 
+Gambit-Cairo: Cairo bindings ofr Gambit-C scheme system.
+<div id="webaddress">
+<a href="https://github.com/mbenelli/gambit-cairo">https://github.com/mbenelli/gambit-cairo</a>
+</div>
 
-Gambit-Cairo: [https://github.com/mbenelli/gambit-cairo](https://github.com/mbenelli/gambit-cairo)
-Cairo bindings ofr Gambit-C scheme system
-
-
-Boolean Networks Simulator: [http:/savannah.nongnu.org/bns](http:/savannah.nongnu.org/bns)
-Simulation and analysis of Random Boolean Networks
+Boolean Networks Simulator: Simulation and analysis of Random Boolean Networks.
+<div id="webaddress">
+<a href="http:/savannah.nongnu.org/bns">http:/savannah.nongnu.org/bns</a>
+</div>
 
 
 ### Plenary speaker
 
 `01-05-2012`
 5th European Lisp Symposium, Zadar
-[http://ozk.unizd.hr/els2012](http://ozk.unizd.hr/els2012)
+<div id="webaddress">
+<a href="http://ozk.unizd.hr/els2012">http://ozk.unizd.hr/els2012</a>
+</div>
 
 `24-09-2012`
 Better Embedded 2012, Florence
-[http://www.betterembedded.it/2013/edizione-2012](http://www.betterembedded.it/2013/edizione-2012)
+<div id="webaddress">
+<a href="http://www.betterembedded.it/2013/edizione-2012">http://www.betterembedded.it/2013/edizione-2012</a>
+</div>
 
 
 <!-- ### Footer
