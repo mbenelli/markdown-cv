@@ -35,28 +35,34 @@ Thesis presented in "Recent Results on Random Boolean Networks" at
 
 `2019-now`
 __Software Developer__, Mbition
+
 Data pipeline for global analytics for Daimler cars.
 Car infotainment components.
 
 `2014-2019`
 __Software Developer__, The Qt Company
+
 Code model for QML language in QtCreator IDE.
 Custom visual editors.
 
 `2013-2014`
 __Software Developer__, Deutsche Telekom
+
 Cloud based operating system.
 
 `2012-2013`
 __Software Developer__, Deskwanted
+
 Geo-location application for coworking spaces.
 
 `2008-2012`
 __Software Developer__, SPES
+
 Industrial automation and IoT.
 
 `2004-2013`
 __Software Developer and Consultant__, self-employed
+
 Industial automation, artificial vision, telecommunication, firmware.
 
 ## Personal skill and competences
