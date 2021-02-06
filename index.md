@@ -87,9 +87,9 @@ Team work, project and team management, mentoring
 Agile development
 
 
-### Additional information
+## Additional information
 
-#### Personal projects
+### Personal projects
 
 Klio: [https://mbenelli.github.com/klio/](https://mbenelli.github.com/klio/)
 Web server and framework focused on system automation on constrained
@@ -101,7 +101,7 @@ Cairo bindings ofr Gambit-C scheme system
 Boolean Networks Simulator: [http:/savannah.nongnu.org/bns](http:/savannah.nongnu.org/bns)
 Simulation and analysis of Random Boolean Networks
 
-#### Plenary speaker
+### Plenary speaker
 5th European Lisp Symposium (Zadar, April 30th, May 1st 2012)
 [http://ozk.unizd.hr/els2012](http://ozk.unizd.hr/els2012)
 
