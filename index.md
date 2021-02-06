@@ -16,7 +16,7 @@ Software Developer
 Software Developer and Data Scientist at Mbition.
 
 
-### Interests
+## Interests
 
 Embedded systems, algorithms, cryptography, machine learning.
 
@@ -26,18 +26,19 @@ Embedded systems, algorithms, cryptography, machine learning.
 `2019-now`
 __Mbition GmbH__, Berlin
 
-Data pipeline for global analytics for Daimler cars.
+Data pipeline for global analytics for Daimler vehicles.
 
-Car infotainment components.
+Vehicle infotainment components.
 
 `2014-2019`
 __The Qt Company__, Berlin
 
 Code model for QML language in QtCreator IDE.
+
 Custom visual editors.
 
 `2013-2014`
-__Deutcsche Telekom__, Berlin
+__Deutsche Telekom__, Berlin
 
 Cloud based operating system.
 
@@ -54,15 +55,19 @@ Industrial automation and IoT.
 `2004-2013`
 __Software Developer and Consultant__, Florence, Fabriano (AN) and Forli (FC), Italy
 
-Industial automation, artificial vision, telecommunication, firmware.
+Industial automation, artificial vision, telecomunication, firmware.
 
 `2002-2003`
 __Montecatini Research Center__, Marina di Ravenna (RA, Italy)
+
+Study of emergent behavior in complex systems. Implementation of software
+for simulations and data analysis.
 
 ## Education
 
 `1996-2003`
 __Master Degree in Physics, University of Bologna.__
+
 Thesis presented in "Recent Results on Random Boolean Networks" at
 "3rd National Conference on System Science" (2004)
 
