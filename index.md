@@ -7,7 +7,7 @@ Software Developer
 
 <div id="webaddress">
 <a href="mbenelli@fastmail.com">mbenelli@fastmail.com</a>
-| <a href="http://github.com/mbenelli">Github</a>
+| <a href="http://github.com/mbenelli">http://github.com/mbenelli</a>
 | +49 17675533014
 </div>
 
