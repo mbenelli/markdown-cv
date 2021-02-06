@@ -15,14 +15,49 @@ Software Developer
 
 Software Developer and Data Scientist at Mbition.
 
-### Specialized in
 
-Algorithms, programming languages.
+### Interests
 
-### Research interests
+Embedded systems, algorithms, cryptography, machine learning.
 
-Embedded system, cryptography, machine learning.
 
+## Professional Experience
+
+`2019-now`
+__Mbition GmbH__, Berlin
+
+Data pipeline for global analytics for Daimler cars.
+
+Car infotainment components.
+
+`2014-2019`
+__The Qt Company__, Berlin
+
+Code model for QML language in QtCreator IDE.
+Custom visual editors.
+
+`2013-2014`
+__Deutcsche Telekom__, Berlin
+
+Cloud based operating system.
+
+`2012-2013`
+__Deskwanted UG__, Berlin
+
+Geo-location application for coworking spaces.
+
+`2008-2012`
+__SPES scpa__, Fabriano (AN, Italy)
+
+Industrial automation and IoT.
+
+`2004-2013`
+__Software Developer and Consultant__, Florence, Fabriano (AN) and Forli (FC), Italy
+
+Industial automation, artificial vision, telecommunication, firmware.
+
+`2002-2003`
+__Montecatini Research Center__, Marina di Ravenna (RA, Italy)
 
 ## Education
 
@@ -30,40 +65,6 @@ Embedded system, cryptography, machine learning.
 __Master Degree in Physics, University of Bologna.__
 Thesis presented in "Recent Results on Random Boolean Networks" at
 "3rd National Conference on System Science" (2004)
-
-## Occupation
-
-`2019-now`
-__Software Developer__, Mbition
-
-Data pipeline for global analytics for Daimler cars.
-Car infotainment components.
-
-`2014-2019`
-__Software Developer__, The Qt Company
-
-Code model for QML language in QtCreator IDE.
-Custom visual editors.
-
-`2013-2014`
-__Software Developer__, Deutsche Telekom
-
-Cloud based operating system.
-
-`2012-2013`
-__Software Developer__, Deskwanted
-
-Geo-location application for coworking spaces.
-
-`2008-2012`
-__Software Developer__, SPES
-
-Industrial automation and IoT.
-
-`2004-2013`
-__Software Developer and Consultant__, self-employed
-
-Industial automation, artificial vision, telecommunication, firmware.
 
 ## Personal skill and competences
 
@@ -82,7 +83,8 @@ Industial automation, artificial vision, telecommunication, firmware.
 ### Computer skills
 
   - C/C++, Python, Scala, Lisp
-  - Unix, SQL, git, spark
+  - Rust, Go, Julia
+  - Unix, SQL, Git, Spark, Qt
   
 ### Social Skill
 
@@ -91,7 +93,6 @@ Team work, project and team management, mentoring
 ### Organizational skills
 
 Agile development
-
 
 ## Additional information
 
