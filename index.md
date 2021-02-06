@@ -12,11 +12,6 @@ Software Developer
 </div>
 
 
-## Currently
-
-Software Developer and Data Scientist at Mbition.
-
-
 ## Interests
 
 Algorithms, embedded systems, cryptography, machine learning.
