@@ -59,9 +59,9 @@ Industrial automation and IoT.
 __Software Developer and Consultant__, self-employed
 Industial automation, artificial vision, telecommunication, firmware.
 
-### Personal skill and competences
+## Personal skill and competences
 
-#### Languages
+### Languages
 
   - Italian: mother tongue
   - English: professional fluency
@@ -82,7 +82,7 @@ Industial automation, artificial vision, telecommunication, firmware.
 
 Team work, project and team management, mentoring
 
-## Organizational skills
+### Organizational skills
 
 Agile development
 
@@ -91,7 +91,7 @@ Agile development
 
 #### Personal projects
 
-Klio: [http://mbenelli.github.com/klio/](http://mbenelli.github.com/klio/)
+Klio: [https://mbenelli.github.com/klio/](https://mbenelli.github.com/klio/)
 Web server and framework focused on system automation on constrained
 resources
 
