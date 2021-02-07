@@ -176,8 +176,9 @@ a:hover {
 }
 
 #weblink {
+	margin-bottom: 1em;  
 	position: relative;
-	left: 33%;
+	left: 28%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
