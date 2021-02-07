@@ -104,7 +104,7 @@ Gambit-Cairo: Cairo bindings ofr Gambit-C scheme system.
 
 
 Boolean Networks Simulator: Simulation and analysis of Random Boolean Networks.
-<div id="webling">
+<div id="weblink">
 <a href="http:/savannah.nongnu.org/bns">http:/savannah.nongnu.org/bns</a>
 </div>
 
