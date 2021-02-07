@@ -92,19 +92,19 @@ Team work, project and team management, mentoring, agile development
 ### Personal projects
 
 Klio: Web server and framework focused on system automation on constrained resources
-<div id="webaddress">
+<div id="weblink">
 <a href="https://mbenelli.github.com/klio">https://mbenelli.github.com/klio</a>
 </div>
 
 
 Gambit-Cairo: Cairo bindings ofr Gambit-C scheme system.
-<div id="webaddress">
+<div id="weblink">
 <a href="https://github.com/mbenelli/gambit-cairo">https://github.com/mbenelli/gambit-cairo</a>
 </div>
 
 
 Boolean Networks Simulator: Simulation and analysis of Random Boolean Networks.
-<div id="webaddress">
+<div id="webling">
 <a href="http:/savannah.nongnu.org/bns">http:/savannah.nongnu.org/bns</a>
 </div>
 
@@ -113,14 +113,14 @@ Boolean Networks Simulator: Simulation and analysis of Random Boolean Networks.
 
 `01-05-2012`
 5th European Lisp Symposium, Zadar
-<div id="webaddress">
+<div id="weblink">
 <a href="http://ozk.unizd.hr/els2012">http://ozk.unizd.hr/els2012</a>
 </div>
 
 
 `24-09-2012`
 Better Embedded 2012, Florence
-<div id="webaddress">
+<div id="weblink">
 <a href="http://www.betterembedded.it/2013/edizione-2012">http://www.betterembedded.it/2013/edizione-2012</a>
 </div>
 
