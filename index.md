@@ -121,7 +121,7 @@ Boolean Networks Simulator: Simulation and analysis of Random Boolean Networks.
 `24-09-2012`
 Better Embedded 2012, Florence
 <div id="weblink">
-<a href="http://www.betterembedded.it/2013/edizione-2012">http://www.betterembedded.it/2013/edizione-2012</a>
+<a href="http://www.betterembedded.it">http://www.betterembedded.it</a>
 </div>
 
 <!-- ### Footer
